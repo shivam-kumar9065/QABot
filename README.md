@@ -45,11 +45,11 @@ To launch the Streamlit app, run the following command in your terminal:
 6. Q&A: When you ask a question, the app retrieves the most relevant text chunks and uses Google Gemini Pro to provide an answer based on those chunks.
 
  📁 Supported File Types
-      File Type	Supported
-      .pdf	✅ Yes
-      .docx	✅ Yes
-      .txt	❌ No
-      .doc	❌ No
+ File Type	Supported
+.pdf	✅ Yes
+.docx	✅ Yes
+.txt	❌ No
+.doc	❌ No
 
 
 
